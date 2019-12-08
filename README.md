@@ -1,1 +1,3 @@
-# phone_diary_C_CPP_DataStructures
+# Phone Diary using C/C++( Data Structures)
+
+Source code is in .zip file. 
